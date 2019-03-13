@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="pref_lang_list_labels">
+        <item>@string/pref_lang_label_nl</item>
+        <item>@string/pref_lang_label_en</item>
+    </array>
+
+    <array name="pref_lang_list_values">
+        <item>@string/pref_lang_list_nl_value</item>
+        <item>@string/pref_lang_list_en_value</item>
+    </array>
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="true">BlindWallGall</string>
+    <string name="detail_material">Materiaal:</string>
+    <string name="detail_address">Adres:</string>
+    <string name="detail_photographer">Fotograaf:</string>
+    <string name="image_toast_amount">"Aantal afbeeldingen: "</string>
+    <string name="pref_lang_screen">Taal instellingen</string>
+    <string name="pref_lang_check">Gebruik systeemtaal</string>
+    <string name="pref_lang_label">Taal</string>
+    <string name="pref_lang_label_nl">Nederlands</string>
+    <string name="pref_lang_label_en">Engels</string>
+    <string name="settings_string">Instellingen</string>
+    <string name="json_toast_data_loaded">Data is geladen!</string>
+    <string name="json_toast_data_failed">Data kan niet worden geladen!</string>
+</resources>

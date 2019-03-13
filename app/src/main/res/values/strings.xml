@@ -1,0 +1,38 @@
+<resources>
+    <!--API-->
+    <string translatable="false" name="google_maps_API_key">AIzaSyDPMXFvJjj2bj2S53B0LijsP_aEF1YmQ5s</string>
+
+    <!--App-->
+    <string name="app_name">BlindWallGallery</string>
+    <string name="detail_material">"Material: "</string>
+    <string name="detail_address">"Address: "</string>
+    <string name="detail_photographer">"Photographer: "</string>
+    <string name="image_toast_amount">"Total images: "</string>
+    <string name="json_toast_data_loaded">Data has been loaded!</string>
+    <string name="json_toast_data_failed">Failed to fetch data!</string>
+
+    <!--Menu-->
+    <string name="settings_string">Settings</string>
+
+    <!--Preference-->
+    <string name="pref_lang_screen">Language</string>
+    <string name="pref_lang_screen_key" translatable="false">pref_lang_screen</string>
+
+    <string name="pref_api_url" translatable="false">API Url</string>
+    <string name="pref_api_url_def_value" translatable="false">https://api.blindwalls.gallery/apiv2/murals</string>
+    <string name="pref_api_url_key" translatable="false">api_url</string>
+
+    <string name="pref_lang_check">Use system language</string>
+    <string name="pref_lang_check_def_value" translatable="false">true</string>
+    <string name="pref_lang_check_key" translatable="false">pref_lang_check_key</string>
+
+    <string name="pref_lang_label">Language</string>
+
+    <string name="pref_lang_list_key" translatable="false">pref_lang_list_key</string>
+
+    <string name="pref_lang_label_nl">Dutch</string>
+    <string name="pref_lang_label_en">English</string>
+
+    <string name="pref_lang_list_nl_value" translatable="false">nl</string>
+    <string name="pref_lang_list_en_value" translatable="false">en</string>
+</resources>
